@@ -8,7 +8,8 @@ Simply copy the contents of [kagi.css](https://github.com/snqn/kagi.css/blob/mai
 
 1. go to [Kagi's custom CSS](https://kagi.com/settings/custom_css) settings
 2. paste the file contents
-3. enjoy
+3. "Save Changes"
+4. enjoy
 
 ## Thanks to
 
