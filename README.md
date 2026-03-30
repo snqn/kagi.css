@@ -1,4 +1,4 @@
-# Sine qua non for [Kagi Search](https://kagi.com/).
+<h1><samp>Sine qua non for <a href="https://kagi.com/">Kagi Search</a>.</samp></h1>
 
 ![Preview](.github/assets/preview.png)
 
@@ -16,6 +16,10 @@ Simply copy the contents of [kagi.css](https://github.com/snqn/kagi.css/blob/mai
 
 - [74k1](https://github.com/74k1)
 
----
+<br/>
 
-Copyright © 2026-present SNQN
+<p align="center">
+  <img src="https://raw.githubusercontent.com/snqn/snqn/main/.github/assets/snqn_spacer.png" width="75%" />
+</p>
+
+<p align="center"><samp>Copyright © 2026-present SNQN</samp></p>
